@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "izina": "Ibiharage",
+            "igiciro": 3500,
+            "igitigiri": 51
+        },
+        {
+            "id": 2,
+            "izina": "Ibiriya",
+            "igiciro": 3000,
+            "igitigiri": 20
+        }
+    ],
+    "sales": [
+        {
+            "date": "13/04 19h54",
+            "izina": "Ibiharage",
+            "quantity": 4,
+            "total": 14000
+        }
+    ]
+}
